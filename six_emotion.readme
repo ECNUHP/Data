@@ -1,0 +1,8 @@
+['null', 'like', 'sad', 'disgust', 'angry', 'happy']
+null:0
+like:1
+sad:2
+disgust:3
+angry:4
+happy:5
+
